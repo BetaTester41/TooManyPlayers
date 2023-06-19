@@ -1,3 +1,5 @@
+# 1.19 update already merged.
+
 ## EN
 
 Too Many Players is a rough client optimization mod to increase FPS when there are a lot of players in your field of vision.
